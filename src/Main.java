@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
 public class Main {
+
+//    Напишите программу, которая считывает количество строк, количество столбцов и элементы
+//    двумерного массива. Выведите массив на экран и следующей строкой минимальный элемент массива.
+
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int x = Integer.parseInt(s.nextLine());
